@@ -1,0 +1,37 @@
+body{
+    font-family: 'Lobster', cursive;
+    background: #1EF369 ;
+}
+
+.header_div{
+    background: #1E69F3 ;
+    color: black;
+}
+
+.header_div p{
+    font-family: 'Caveat', cursive;
+    color: #98E03E;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Concert One', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: dark gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
